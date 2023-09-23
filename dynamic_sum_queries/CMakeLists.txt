@@ -1,0 +1,1 @@
+add_executable(dynamic_sum_queries dynamic_sum_queries.cpp)

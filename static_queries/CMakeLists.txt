@@ -1,0 +1,1 @@
+add_executable(static_queries static_queries.cpp)

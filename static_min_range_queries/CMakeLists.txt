@@ -1,0 +1,1 @@
+add_executable(static_min_range_queries static_min_range_queries.cpp)
