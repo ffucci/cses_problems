@@ -15,6 +15,11 @@ add_subdirectory(dynamic_sum_queries)
 add_subdirectory(edit_distance)
 add_subdirectory(static_queries)
 add_subdirectory(static_min_range_queries)
+add_subdirectory(dynamic_min_range_queries)
+
+add_subdirectory(range_xor)
+add_subdirectory(range_update)
+
 add_subdirectory(stick_lengths)
 add_subdirectory(sum_values)
 add_subdirectory(two_sets_2)

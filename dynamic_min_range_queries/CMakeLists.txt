@@ -1,0 +1,1 @@
+add_executable(dynamic_min_range_queries dynamic_min_range_queries.cpp)

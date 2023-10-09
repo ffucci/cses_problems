@@ -1,0 +1,1 @@
+add_executable(range_xor range_xor.cpp)
