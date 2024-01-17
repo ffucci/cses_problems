@@ -1,5 +1,6 @@
 .vscode
 .cache/*
-build/*
+build-*
 .cache/clangd/*
 book_shop/.cache/clangd/*
+

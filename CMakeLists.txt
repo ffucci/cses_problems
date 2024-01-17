@@ -12,6 +12,9 @@ add_subdirectory(apartments)
 add_subdirectory(book_shop)
 add_subdirectory(dynamic_sum_queries)
 
+add_subdirectory(message_route)
+add_subdirectory(monsters)
+
 add_subdirectory(edit_distance)
 add_subdirectory(static_queries)
 add_subdirectory(static_min_range_queries)
