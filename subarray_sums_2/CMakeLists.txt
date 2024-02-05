@@ -1,0 +1,1 @@
+add_executable(subarray_sums_2 subarray_sums_2.cpp)

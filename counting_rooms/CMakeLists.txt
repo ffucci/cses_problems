@@ -1,0 +1,1 @@
+add_executable(counting_rooms counting_rooms.cpp)

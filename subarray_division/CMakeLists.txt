@@ -1,0 +1,2 @@
+add_executable(subarray_division subarray_division.cpp)
+add_executable(subarray_division_sol2 subarray_division_sol2.cpp)
