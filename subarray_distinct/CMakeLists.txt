@@ -1,0 +1,1 @@
+add_executable(subarray_distinct subarray_distinct.cpp)

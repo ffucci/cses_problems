@@ -27,7 +27,10 @@ add_subdirectory(range_update)
 
 add_subdirectory(stick_lengths)
 add_subdirectory(subarray_sums_2)
+add_subdirectory(nearest)
+
 add_subdirectory(subarray_division)
+add_subdirectory(subarray_distinct)
 
 add_subdirectory(sum_values)
 add_subdirectory(two_sets_2)
