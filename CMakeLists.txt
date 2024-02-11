@@ -1,7 +1,8 @@
-cmake_minimum_required(VERSION 3.24.4)
+cmake_minimum_required(VERSION 3.24.1)
 
 set(CMAKE_VERBOSE_MAKEFILE ON)
-set(CMAKE_CXX_COMPILER /opt/local/libexec/llvm-16/bin/clang++)
+set(CMAKE_CXX_COMPILER /usr/local/opt/llvm/bin/clang++)
+set(CMAKE_C_COMPILER /usr/local/opt/llvm/bin/clang)
 set(CMAKE_CXX_STANDARD 20)
 
 project(cses_solutions)
@@ -29,8 +30,9 @@ add_subdirectory(stick_lengths)
 add_subdirectory(subarray_sums_2)
 add_subdirectory(nearest)
 
+add_subdirectory(playlist)
+
 add_subdirectory(subarray_division)
 add_subdirectory(subarray_distinct)
-
 add_subdirectory(sum_values)
 add_subdirectory(two_sets_2)
