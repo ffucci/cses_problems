@@ -1,0 +1,1 @@
+add_executable(tasks_and_deadlines tasks_and_deadlines.cpp)
