@@ -1,0 +1,1 @@
+add_executable(missing_coin_sum missing_coin_sum.cpp)
