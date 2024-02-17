@@ -1,0 +1,1 @@
+add_executable(movie_festival movie_festival.cpp)

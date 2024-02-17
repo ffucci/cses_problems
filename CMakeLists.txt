@@ -17,13 +17,14 @@ add_subdirectory(counting_rooms)
 add_subdirectory(labyrinth)
 add_subdirectory(message_route)
 add_subdirectory(monsters)
+add_subdirectory(movie_festival)
 
 add_subdirectory(edit_distance)
 add_subdirectory(static_queries)
 add_subdirectory(static_min_range_queries)
 add_subdirectory(dynamic_min_range_queries)
 
-add_subdirectory(range_xor)
+add_subdirectory(range_xor) 
 add_subdirectory(range_update)
 
 add_subdirectory(stick_lengths)
