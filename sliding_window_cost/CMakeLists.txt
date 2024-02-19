@@ -1,0 +1,1 @@
+add_executable(sliding_window_cost sliding_window_cost.cpp)
