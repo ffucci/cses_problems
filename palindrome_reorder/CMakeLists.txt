@@ -1,0 +1,1 @@
+add_executable(palindrome_reorder palindrome_reorder.cpp)
